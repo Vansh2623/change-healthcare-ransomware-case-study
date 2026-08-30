@@ -63,6 +63,19 @@ This case study helped me understand how a single weakness in an organization's 
 - How cybersecurity incidents can create consequences beyond data loss, including **operational, financial, legal, and reputational impacts**.
 - The importance of designing security controls and recovery processes with **resilience** in mind, rather than focusing only on preventing an attack.
 
+### 🧠 Skills & Concepts Applied
+
+- Cybersecurity Case Study Analysis
+- Ransomware & Data Breach Analysis
+- Threat Identification & Mitigation
+- Root Cause Analysis
+- Incident Response & Recovery
+- Network Security & Segmentation
+- Multi-Factor Authentication (MFA)
+- Penetration Testing Concepts
+- Point of Sale (PoS) Security
+- Insider Threat Awareness
+  
 ### 🔚 Conclusion
 
 The Change Healthcare ransomware attack demonstrates how a weakness in a basic security control can lead to widespread consequences when it exists within a highly interconnected environment. The incident highlighted the importance of strong authentication, network segmentation, effective recovery planning, and resilient cybersecurity practices. An effective security strategy must not only focus on preventing attacks but also on limiting their spread and maintaining critical operations when an incident occurs.
