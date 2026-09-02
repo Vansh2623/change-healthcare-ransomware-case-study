@@ -1,4 +1,4 @@
-# Cyber-Incident-Analysis
+# Change-healthcare-ransomware-case-study
 A real-world cybersecurity case study
 
 ## Project Overview
